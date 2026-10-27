@@ -1,0 +1,7 @@
+# Compilación Java
+*.class
+out/
+
+# Archivos temporales de Visual Paradigm
+*.lck
+*.bak_*
